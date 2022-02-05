@@ -1,19 +1,4 @@
 
-<!--
-**zuojj/zuojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### I am [zuojj](https://zuojj.com/) 😄
 
 I am a Full Stack Developer 👨‍💻, I work full time [@Tencent](https://www.tencent.com/).
@@ -38,13 +23,12 @@ I am a Full Stack Developer 👨‍💻, I work full time [@Tencent](https://www
 #### Other tech stack I work with ⚡
 
 <p>
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
-<img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
-<img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-505050?style=flat&logo=gitlab&logoColor=white" />
 <img alt="Gilab CI" src="https://img.shields.io/badge/-Gitlab%20CI-505050?style=flat&logo=gitlab&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
+<img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <img alt="Styled" src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
@@ -55,5 +39,7 @@ I am a Full Stack Developer 👨‍💻, I work full time [@Tencent](https://www
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=black" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black" />
+<img alt="PM2" src="https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white" />
 </p>
 
