@@ -41,5 +41,7 @@ I am a Full Stack Developer 👨‍💻, I work full time [@Tencent](https://www
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black" />
 <img alt="PM2" src="https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=NGINX&logoColor=white" />
+<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=ESLINT&logoColor=whilte" />
 </p>
 
